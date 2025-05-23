@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>6d2e6a67-6187-429b-b169-938832855024</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ant-pro-query-filter-collapse-button.css-uaxenf > span.anticon.anticon-down > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Expand&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>9948ff9b-c740-49c5-972a-62b2f2ecb004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z</value>
+      <webElementGuid>846f40e4-2430-4009-86d5-3ec218013390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-uaxenf ant-design-pro ant-pro-layout screen-lg ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-4fk4bg&quot;]/div[@class=&quot;ant-pro-layout-container css-uaxenf&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-uaxenf ant-pro-layout-has-header ant-pro-layout-content-has-page-container css-4fk4bg&quot;]/div[@class=&quot;ant-pro-page-container css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content-children css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-page-container-children-container&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-4fk4bg&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table invoice-list css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-card ant-pro-table-search ant-pro-table-search-query-filter sqInvoiceListFilter&quot;]/form[@class=&quot;ant-form ant-form-vertical css-4fk4bg ant-pro-query-filter css-uaxenf sqInvoiceListFilter ant-pro-form css-uaxenf&quot;]/div[@class=&quot;ant-row ant-row-start ant-pro-query-filter-row css-uaxenf css-4fk4bg&quot;]/div[@class=&quot;ant-col ant-col-12 css-4fk4bg&quot;]/div[@class=&quot;ant-form-item ant-pro-query-filter-actions css-uaxenf css-4fk4bg&quot;]/div[@class=&quot;ant-row ant-form-item-row css-4fk4bg&quot;]/div[@class=&quot;ant-col ant-form-item-control css-4fk4bg&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-space css-4fk4bg ant-space-horizontal ant-space-align-center&quot;]/div[@class=&quot;ant-space-item&quot;]/a[@class=&quot;ant-pro-query-filter-collapse-button css-uaxenf&quot;]/span[@class=&quot;anticon anticon-down&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>fceccfe4-a737-426c-927d-22446d9f7a4d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

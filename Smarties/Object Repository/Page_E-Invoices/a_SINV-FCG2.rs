@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SINV-FCG2</name>
+   <tag></tag>
+   <elementGuidId>39549883-c22a-4b5c-b0d5-763c18bdf367</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Safa Global Holdings Sdn Bhd'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell.ant-table-cell-row-hover > a.boldOnHover.invoiceTableData</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;SINV-FCG2&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>82ed953d-7fc3-48c8-aaca-fc3a9714fd98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/invoice/view/f634b40e-c14b-42ca-9c76-e61d41de727f?year=2025</value>
+      <webElementGuid>aed714a8-c437-45c9-8f49-1d4fc082a7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>boldOnHover invoiceTableData</value>
+      <webElementGuid>49b8f780-d4fe-46fc-a2e6-3d73c3df5a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SINV-FCG2</value>
+      <webElementGuid>a7e5e271-e67a-4bea-9eaf-ec73666ee22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-uaxenf ant-design-pro ant-pro-layout screen-lg ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-4fk4bg&quot;]/div[@class=&quot;ant-pro-layout-container css-uaxenf&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-uaxenf ant-pro-layout-has-header ant-pro-layout-content-has-page-container css-4fk4bg&quot;]/div[@class=&quot;ant-pro-page-container css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content-children css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-page-container-children-container&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-4fk4bg&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table invoice-list css-uaxenf&quot;]/div[@class=&quot;ant-table-wrapper sqTableHeader css-4fk4bg&quot;]/div[@class=&quot;ant-spin-nested-loading css-4fk4bg&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-middle css-4fk4bg ant-table-scroll-horizontal&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/a[@class=&quot;boldOnHover invoiceTableData&quot;]</value>
+      <webElementGuid>9682db9f-e979-4580-91e0-6345f6a08e85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/div/div[3]/div/div/div/div/div/table/tbody/tr[3]/td/a</value>
+      <webElementGuid>aebeed8c-595d-48d7-8f1a-1217d7691135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SINV-FCG2')]</value>
+      <webElementGuid>7d8fd5e9-1e90-44bc-873e-dda990b9551e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safa Global Holdings Sdn Bhd'])[1]/following::a[1]</value>
+      <webElementGuid>4584a10e-b5b3-4961-8210-e8160a201511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validated'])[1]/following::a[1]</value>
+      <webElementGuid>d9f600aa-0203-47c9-972b-bfd6b2bc2882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self-billed Invoice'])[3]/preceding::a[1]</value>
+      <webElementGuid>56ffb754-26af-44ac-b542-e04b34c607b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validated'])[2]/preceding::a[1]</value>
+      <webElementGuid>0d0f8fe7-df91-4fcb-98b4-e1ea617b614d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SINV-FCG2']/parent::*</value>
+      <webElementGuid>ef6d48df-6e38-4a5d-8945-ed582d20d298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/invoice/view/f634b40e-c14b-42ca-9c76-e61d41de727f?year=2025')]</value>
+      <webElementGuid>2ac25856-8911-427d-a7b0-2751b0025832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/a</value>
+      <webElementGuid>8d259685-9bd0-4df9-bb0d-6178942b97a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/invoice/view/f634b40e-c14b-42ca-9c76-e61d41de727f?year=2025' and (text() = 'SINV-FCG2' or . = 'SINV-FCG2')]</value>
+      <webElementGuid>24038e76-2917-4c15-bebe-75d1f9205a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

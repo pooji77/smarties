@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>cda45428-c4cf-4333-aa5b-f82fa18fff00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/button/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Settings Icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Settings Icon&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c7baaa45-1903-4863-9577-27e91809c40d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/icons/settings.png</value>
+      <webElementGuid>8450c388-e007-44d1-915c-e0f55a788c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-uaxenf ant-design-pro ant-pro-layout screen-lg ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-4fk4bg&quot;]/div[@class=&quot;ant-pro-layout-container css-uaxenf&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-uaxenf ant-pro-layout-has-header ant-pro-layout-content-has-page-container css-4fk4bg&quot;]/div[@class=&quot;ant-pro-page-container css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content-children css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-page-container-children-container&quot;]/div[@class=&quot;ant-row css-4fk4bg&quot;]/div[@class=&quot;ant-col ant-col-24 css-4fk4bg&quot;]/button[@class=&quot;ant-dropdown-trigger&quot;]/div[@class=&quot;ant-space css-4fk4bg ant-space-horizontal ant-space-align-center ant-space-gap-row-small ant-space-gap-col-small&quot;]/div[@class=&quot;ant-space-item&quot;]/img[1]</value>
+      <webElementGuid>863c2209-3043-49b3-900b-9c50e92b3358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Settings Icon</value>
+      <webElementGuid>31bf5e92-9273-4086-b109-f716377445c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/button/div/div/img</value>
+      <webElementGuid>d14e4997-1676-48db-ab4d-0a20b8682010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Settings Icon']</value>
+      <webElementGuid>be6ab0b6-db79-4242-9c2f-91ffe7c0a39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>5c866c32-f151-4604-8d82-f918c09a6452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Settings Icon' and @src = '/icons/settings.png']</value>
+      <webElementGuid>0ca0499c-73f4-4760-a971-06aa9cf2217e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/button/img</value>
+      <webElementGuid>ad8e9823-9533-4d69-9504-62914b0d8fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>b873eaf8-bfeb-4637-8924-265b85cd050d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/icons/back.svg']</value>
+      <webElementGuid>c5325516-2810-48d0-b4df-4a7ed3e3d336</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

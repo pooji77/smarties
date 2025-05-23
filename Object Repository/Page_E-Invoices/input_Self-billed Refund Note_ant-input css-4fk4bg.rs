@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Self-billed Refund Note_ant-input css-4fk4bg</name>
+   <tag></tag>
+   <elementGuidId>5b908ac6-0e74-4ff3-9c54-2e49c0b08ae0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.css-4fk4bg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search by e-invoice No.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>064577d8-5ef3-44b3-aadf-8f74d0379b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by e-invoice No.</value>
+      <webElementGuid>2752d1fc-e15a-4aae-bb1b-65e8c683ef87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>443</value>
+      <webElementGuid>bc1e3674-c530-4394-b674-b7173c39a10f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input css-4fk4bg</value>
+      <webElementGuid>1ac361ec-94bd-44d6-af0f-13ab9ac7f943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5a04d227-1337-4bd2-a073-1a28265e97f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-uaxenf ant-design-pro ant-pro-layout screen-lg ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-4fk4bg&quot;]/div[@class=&quot;ant-pro-layout-container css-uaxenf&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-uaxenf ant-pro-layout-has-header ant-pro-layout-content-has-page-container css-4fk4bg&quot;]/div[@class=&quot;ant-pro-page-container css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content-children css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-page-container-children-container&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-4fk4bg&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table invoice-list css-uaxenf&quot;]/div[@class=&quot;ant-pro-table-list-toolbar css-uaxenf sqTableToolbar&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-container css-uaxenf&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-right css-uaxenf&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-search css-uaxenf&quot;]/span[@class=&quot;ant-input-group-wrapper ant-input-group-wrapper-outlined css-4fk4bg ant-input-search&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group css-4fk4bg&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-focused css-4fk4bg ant-input-outlined&quot;]/input[@class=&quot;ant-input css-4fk4bg&quot;]</value>
+      <webElementGuid>38990704-d5b3-4234-b351-2ac2e1d174ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[9]</value>
+      <webElementGuid>977c4d6b-ae55-45f2-b172-e29f13766355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/div/div[2]/div/div[2]/div/span/span/span/input</value>
+      <webElementGuid>8418f34f-88b7-46b9-8edb-5832efb9b8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/input</value>
+      <webElementGuid>1bff36ad-6e88-4b03-bf5f-a084ed739cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search by e-invoice No.' and @type = 'text']</value>
+      <webElementGuid>a9bb8ab2-41be-4d49-b82b-c64bd663b07c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

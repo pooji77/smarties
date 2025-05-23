@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Reset</name>
+   <tag></tag>
+   <elementGuidId>e36af8a4-985a-438a-81f8-02bbebe9706f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/div[2]/div[5]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-4fk4bg.ant-btn-default.SQDashboardResetButton___mMkg9 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Reset&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>df363a6b-c822-4f55-94cb-b5e48ddc4e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset</value>
+      <webElementGuid>5b25b66d-0fbf-448b-9e77-fe51aea1c8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-uaxenf ant-design-pro ant-pro-layout screen-lg ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-4fk4bg&quot;]/div[@class=&quot;ant-pro-layout-container css-uaxenf&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-uaxenf ant-pro-layout-has-header ant-pro-layout-content-has-page-container css-4fk4bg&quot;]/div[@class=&quot;ant-pro-page-container css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content-children css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-page-container-children-container&quot;]/div[@class=&quot;ant-card ant-card-bordered css-4fk4bg&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-row firstRow___K4RAh css-4fk4bg&quot;]/div[@class=&quot;ant-col ant-col-3 css-4fk4bg&quot;]/button[@class=&quot;ant-btn css-4fk4bg ant-btn-default SQDashboardResetButton___mMkg9&quot;]/span[1]</value>
+      <webElementGuid>f31b62e6-265f-4677-a7dd-c287bfc9ab3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/div[2]/div[5]/button/span</value>
+      <webElementGuid>8b103b51-42c2-49e6-a31a-ceafdef5a1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Issuance date'])[1]/following::span[5]</value>
+      <webElementGuid>e5c76261-8c30-4e19-be6e-84fd5cd9afdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total e-Invoices Received'])[1]/preceding::span[1]</value>
+      <webElementGuid>365e1c9b-a328-4d92-bc53-346af9efbdb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::span[1]</value>
+      <webElementGuid>1db765ca-27e2-4d16-abda-25498d25ffed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset']/parent::*</value>
+      <webElementGuid>98337d3c-43ce-4377-a11f-b127fd61527c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/span</value>
+      <webElementGuid>83a74f70-7aa2-4bd1-acfe-0adb9cdbd6f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reset' or . = 'Reset')]</value>
+      <webElementGuid>e4b897ca-29bc-45e3-a218-60a9553dd921</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

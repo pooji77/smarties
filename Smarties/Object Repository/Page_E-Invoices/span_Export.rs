@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Export</name>
+   <tag></tag>
+   <elementGuidId>ed14b276-9dfa-4318-9476-4377474ccbd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/div/div/form/div/div[6]/div/div/div[2]/div/div/div/div/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-4fk4bg.ant-btn-primary > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Export&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2feff677-6857-4d30-8f2b-4abbe532e0ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Export</value>
+      <webElementGuid>b7578e16-6826-4ab4-8898-33993e80e264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-uaxenf ant-design-pro ant-pro-layout screen-lg ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-4fk4bg&quot;]/div[@class=&quot;ant-pro-layout-container css-uaxenf&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-uaxenf ant-pro-layout-has-header ant-pro-layout-content-has-page-container css-4fk4bg&quot;]/div[@class=&quot;ant-pro-page-container css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content-children css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-page-container-children-container&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-4fk4bg&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table invoice-list css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-card ant-pro-table-search ant-pro-table-search-query-filter sqInvoiceListFilter&quot;]/form[@class=&quot;ant-form ant-form-vertical css-4fk4bg ant-pro-query-filter css-uaxenf sqInvoiceListFilter ant-pro-form css-uaxenf&quot;]/div[@class=&quot;ant-row ant-row-start ant-pro-query-filter-row css-uaxenf css-4fk4bg&quot;]/div[@class=&quot;ant-col ant-col-12 css-4fk4bg&quot;]/div[@class=&quot;ant-form-item ant-pro-query-filter-actions css-uaxenf css-4fk4bg&quot;]/div[@class=&quot;ant-row ant-form-item-row css-4fk4bg&quot;]/div[@class=&quot;ant-col ant-form-item-control css-4fk4bg&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-space css-4fk4bg ant-space-horizontal ant-space-align-center&quot;]/div[@class=&quot;ant-space-item&quot;]/div[1]/button[@class=&quot;ant-btn css-4fk4bg ant-btn-primary&quot;]/span[1]</value>
+      <webElementGuid>7987caf5-e2d1-47ab-bc12-d0a8006b6474</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/div/div/form/div/div[6]/div/div/div[2]/div/div/div/div/div/button[2]/span</value>
+      <webElementGuid>104d4eab-1e20-4a19-98a1-331f0381db3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::span[1]</value>
+      <webElementGuid>734b7c54-449d-43e4-916e-959dc7b63379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::span[6]</value>
+      <webElementGuid>1f117828-cdb4-467a-836b-97c6975b10c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand'])[1]/preceding::span[1]</value>
+      <webElementGuid>a6869f11-afd1-4510-bee0-ef791554fa11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/preceding::span[2]</value>
+      <webElementGuid>0d4d5a17-d42a-449c-814d-03e37c656f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export']/parent::*</value>
+      <webElementGuid>e04d1067-e69f-4032-99c4-8b78bcb0b252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>b69b0fe9-ffd9-4666-90a2-053484771b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Export' or . = ' Export')]</value>
+      <webElementGuid>6069b12a-6d13-4ceb-82c1-badfe2616fc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

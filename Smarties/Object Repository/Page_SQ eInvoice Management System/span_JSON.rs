@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_JSON</name>
+   <tag></tag>
+   <elementGuidId>5061fb9d-34fd-42b8-908f-b0c25f468c0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-tabs-0-tab-2']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#rc-tabs-0-tab-2 > span.tabPaneText.selectedTab</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;JSON&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51cbb791-5edb-4f66-8a6a-c5d1472a2298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tabPaneText selectedTab</value>
+      <webElementGuid>c03b84d2-fbdb-4c4b-b1fb-dec277cafdac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JSON</value>
+      <webElementGuid>ec9d379b-e061-4f74-a9fa-c8f01dc66d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-tab-2&quot;)/span[@class=&quot;tabPaneText selectedTab&quot;]</value>
+      <webElementGuid>415923c3-95c6-4d7e-ac00-b6efaa2ea4e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-0-tab-2']/span</value>
+      <webElementGuid>0f265a60-74bc-4bde-84b2-e2202d66d834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HTML'])[1]/following::span[1]</value>
+      <webElementGuid>c3ae607c-4399-4c7e-aec2-4b5cf8d2796c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e-Invoice action tracker'])[1]/following::span[2]</value>
+      <webElementGuid>693da94c-cd56-41b8-93cc-79052b654634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JSON']/parent::*</value>
+      <webElementGuid>b1636fc3-d593-453c-8b24-82bf3b1291fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div/span</value>
+      <webElementGuid>d3d4ce7a-fa9c-49cd-9655-faa7f2b2e9e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'JSON' or . = 'JSON')]</value>
+      <webElementGuid>56e0463c-5e04-404f-b586-7be0a4d0bf34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

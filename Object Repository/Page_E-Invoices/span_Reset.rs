@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Reset</name>
+   <tag></tag>
+   <elementGuidId>138c9e1a-6f1d-4b2a-a569-916b044234cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/div/div/form/div/div[6]/div/div/div[2]/div/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-4fk4bg.ant-btn-default.sqBtnReset > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Reset&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>95b8c0f4-342a-416d-957b-d6c0e6c46e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset</value>
+      <webElementGuid>fe1cadf5-9ebd-45ce-9843-c9168ef7344b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-uaxenf ant-design-pro ant-pro-layout screen-lg ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/div[@class=&quot;ant-layout ant-layout-has-sider css-4fk4bg&quot;]/div[@class=&quot;ant-pro-layout-container css-uaxenf&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-uaxenf ant-pro-layout-has-header ant-pro-layout-content-has-page-container css-4fk4bg&quot;]/div[@class=&quot;ant-pro-page-container css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content css-uaxenf&quot;]/div[@class=&quot;ant-pro-grid-content-children css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-page-container-children-container&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small css-4fk4bg&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-pro-table invoice-list css-uaxenf&quot;]/div[@class=&quot;css-uaxenf ant-pro-card ant-pro-table-search ant-pro-table-search-query-filter sqInvoiceListFilter&quot;]/form[@class=&quot;ant-form ant-form-vertical css-4fk4bg ant-pro-query-filter css-uaxenf sqInvoiceListFilter ant-pro-form css-uaxenf&quot;]/div[@class=&quot;ant-row ant-row-start ant-pro-query-filter-row css-uaxenf css-4fk4bg&quot;]/div[@class=&quot;ant-col ant-col-12 css-4fk4bg&quot;]/div[@class=&quot;ant-form-item ant-pro-query-filter-actions css-uaxenf css-4fk4bg&quot;]/div[@class=&quot;ant-row ant-form-item-row css-4fk4bg&quot;]/div[@class=&quot;ant-col ant-form-item-control css-4fk4bg&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-space css-4fk4bg ant-space-horizontal ant-space-align-center&quot;]/div[@class=&quot;ant-space-item&quot;]/div[1]/button[@class=&quot;ant-btn css-4fk4bg ant-btn-default sqBtnReset&quot;]/span[1]</value>
+      <webElementGuid>1ec70083-6b61-4b4d-bef6-ac5018bd8aaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/main/div[2]/div[2]/div/div/div/div/div/div/form/div/div[6]/div/div/div[2]/div/div/div/div/div/button/span</value>
+      <webElementGuid>ac7cdc73-6273-4bbb-a518-07380b8753be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::span[5]</value>
+      <webElementGuid>428655dc-b241-4f39-9ece-81a90a198e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entity'])[1]/following::span[7]</value>
+      <webElementGuid>4e17fb73-871e-49ca-8652-9e6cd8d56658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::span[1]</value>
+      <webElementGuid>d56a8021-7cb4-4fc3-ae6d-192da157edbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse'])[1]/preceding::span[2]</value>
+      <webElementGuid>35d30ca2-87b1-4ab1-bbfd-e0d66618a1bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset']/parent::*</value>
+      <webElementGuid>1d70b1aa-fea8-49d2-8f1c-6425e6e7a536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/div/div/div/div/div/button/span</value>
+      <webElementGuid>230c7c55-02a6-4729-8188-c1d1ff90d570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reset' or . = 'Reset')]</value>
+      <webElementGuid>ff1c088b-5007-462a-984c-9cbe15ef3bb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
